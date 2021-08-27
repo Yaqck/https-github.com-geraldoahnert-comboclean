@@ -1,4 +1,3 @@
-___
 
 <p align="center">
 	<img align="center" src="https://user-images.githubusercontent.com/41551840/82152527-37348200-9838-11ea-96b4-5749348a9d3e.png">
@@ -15,9 +14,12 @@ ___
 	</a>
 </p>
 
-___
 
 <br>
+
+<h2>About</h2>
+<p>Use comboclean to make it easy to use email and passwords, from big combolists, in your script. Example: bruteforce.</p>
+
 
 <h2>Install</h2>
 
@@ -39,8 +41,6 @@ $ ./comboclean --help
 # Global
 $ comboclean --help
 ```
-
-___
 
 <h2>Example</h2>
 
