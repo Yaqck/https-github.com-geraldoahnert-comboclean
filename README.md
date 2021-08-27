@@ -18,7 +18,7 @@
 <br>
 
 <h2>About</h2>
-<p>Use comboclean to make it easy to use email and passwords, from big combolists, in your script. Example: bruteforce.</p>
+<p>Use comboclean to make it easy to use email and passwords, from big combolists, in your script.</p>
 
 
 <h2>Install</h2>
